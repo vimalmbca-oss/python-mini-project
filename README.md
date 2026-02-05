@@ -13,6 +13,9 @@ This application allows users to:
 
 his project simulates a simple digital showroom experience.
 
+### ⚠️ Important Note
+This project runs in the Python Interpreter as a desktop application.
+
 ---
 
 ## 🚀 Features
